@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsmeadarshem
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Python Full stack
-- 📫 How to reach me contact me via LinkedIn 
+- 📫 How to reach me >>>contact me via Insta:its_me_adarsh_em
 
 <!---
 itsmeadarshem/itsmeadarshem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
